@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Dynamic Introduction -->
   <a href="https://github.com/ciyuan1234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=赞美伟大的开源精神+✨;Building+VideoAgent%3A+AI-Driven+Tech+Video+Studio+🎬;CS+408+计算机核心研习进行时+📚;CUMCM+%2F+MCM+数学建模与机理算法研究+📊;Full-Stack+%26+AI+Agent+Workflow+Explorer+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=赞美伟大的开源精神+✨;Building+VideoAgent%3A+AI-Driven+Tech+Video+Studio+🎬;CS+408+计算机核心研习进行时+📚;CUMCM+%2F+MCM+数学建模与机理算法研究+📊;Full-Stack+%26+AI+Agent+Workflow+Explorer+🤖" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -14,10 +14,11 @@
 
   <!-- Interactive Badges & Counters -->
   <p align="center">
-    <a href="https://github.com/ciyuan1234"><img src="https://komarev.com/ghpvc/?username=ciyuan1234&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" /></a>
-    <a href="https://github.com/ciyuan1234?tab=followers"><img src="https://img.shields.io/github/followers/ciyuan1234?label=Followers&style=flat-square&logo=github&color=4ECDC4" alt="Followers" /></a>
-    <a href="https://github.com/ciyuan1234/Kite-Blog"><img src="https://img.shields.io/badge/Blog-Kite's%20Blog-38BDF8?style=flat-square&logo=astro&logoColor=white" alt="Blog"/></a>
-    <a href="mailto:kite8421@outlook.com"><img src="https://img.shields.io/badge/Email-kite8421@outlook.com-FF6B6B?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/ciyuan1234"><img src="https://komarev.com/ghpvc/?username=ciyuan1234&style=for-the-badge&color=38BDF8&label=Profile+Views" alt="Profile Views" /></a>
+    <a href="https://github.com/ciyuan1234?tab=followers"><img src="https://img.shields.io/github/followers/ciyuan1234?label=Followers&style=for-the-badge&logo=github&color=4ECDC4" alt="Followers" /></a>
+    <a href="https://github.com/ciyuan1234/VideoAgent"><img src="https://img.shields.io/badge/Flagship-VideoAgent-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" alt="VideoAgent"/></a>
+    <a href="https://github.com/ciyuan1234/Kite-Blog"><img src="https://img.shields.io/badge/Blog-Kite's%20Blog-9333EA?style=for-the-badge&logo=astro&logoColor=white" alt="Blog"/></a>
+    <a href="mailto:kite8421@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   </p>
 
 </div>
@@ -27,13 +28,23 @@
 ### 💫 关于我 / About Me
 
 ```yaml
+user@github:~$ whoami --verbose
+```
+
+```yaml
 alias: 秋安 (Kite)
-role: Full-Stack Developer · Mathematical Modeler · CS 408 Aspirant
-interests:
-  - 计算机科学核心 (CS 408: 数据结构 · 操作系统 · 计算机网络 · 计算机组成原理)
-  - 科技内容自动化 (VideoAgent: 1080P AI 自动化技术视频创作管线)
-  - 数学建模与科学计算 (CUMCM & MCM 竞赛开源 · PDE 数值求解与机理建模)
-  - 现代化全栈与 Agent 流 (TypeScript · Astro · Python · Agentic Workflows)
+status: "🌱 念念不忘，必有回响"
+roles:
+  - 💻 Full-Stack Developer & Open Source Enthusiast
+  - 📊 Mathematical Modeler (CUMCM & MCM PDE Solvers)
+  - 📚 CS 408 Aspirant (Operating Systems · Networks · Computer Architecture)
+flagship:
+  name: "VideoAgent"
+  tagline: "面向 Apple Silicon 的计算机科技视频自动化生产工坊"
+focus_areas:
+  - 计算机科学核心 (CS 408: 数据结构与算法 · Linux 内核原语 · 网络协议栈 · 计算机组成原理)
+  - 科学计算与数值仿真 (有限体积法 FVM · 热质传递非线性偏微分方程 PDE 求解 · 数据契约)
+  - 现代化全栈与 Agentic 架构 (TypeScript · Astro · Python · Claude Code · Antigravity)
 philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
 ```
 
@@ -54,6 +65,7 @@ philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
           <a href="https://github.com/ciyuan1234/VideoAgent">🎬 VideoAgent - 自动化科技视频创作工坊</a>
         </h3>
         <p align="center">
+          <a href="https://github.com/ciyuan1234/VideoAgent"><img src="https://img.shields.io/github/stars/ciyuan1234/VideoAgent?style=flat-square&logo=github&color=FF6B6B" alt="Stars"/></a>
           <img src="https://img.shields.io/badge/Platform-macOS_(Apple_Silicon)-black?style=flat-square&logo=apple" alt="Apple Silicon"/>
           <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" alt="Python"/>
           <img src="https://img.shields.io/badge/Resolution-1080P%2F60FPS-orange?style=flat-square" alt="1080P"/>
@@ -113,13 +125,20 @@ philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
 
 ---
 
-### 🛠️ 技术栈与装备库 / Tech Arsenal
+### 🛠️ 技能全景与装备库 / Tech Arsenal
 
 <div align="center">
 
+  <!-- Dynamic Glowing Tech Icons -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,linux,apple,git,github,vscode,react,tailwind,astro,nodejs&perline=8&theme=dark" alt="Skill Icons" />
+    </a>
+  </p>
+
 | 分类 | 核心技术与工具 |
 | :--- | :--- |
-| **编程语言** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **核心语言** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **AI 代理与工作流** | ![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![GPT-SoVITS](https://img.shields.io/badge/GPT--SoVITS-FF6F00?style=flat-square) ![Agentic](https://img.shields.io/badge/Agentic_Workflow-8B5CF6?style=flat-square) |
 | **科学计算与建模** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
 | **现代 Web 与前端** | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
@@ -129,7 +148,7 @@ philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
 
 ---
 
-### 📊 GitHub 动态与活跃度 / GitHub Stats
+### 📊 动态活跃与数据看板 / GitHub Analytics
 
 <div align="center">
 
@@ -138,7 +157,7 @@ philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
 
   <br/><br/>
 
-  <!-- GitHub Readme Stats -->
+  <!-- GitHub Readme Stats & Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api?username=ciyuan1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="155" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciyuan1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="155" alt="Top Langs" />
 
@@ -156,10 +175,30 @@ philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
 
 ---
 
-### 💬 每日技术灵感 / Tech Quote
+### 💬 每日极客名言 / Daily Tech Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+</div>
+
+---
+
+### 🤝 保持联络 / Connect With Me
+
+<div align="center">
+
+  <p><b>欢迎技术探讨、数学建模交流与开源共建！</b></p>
+
+  <a href="mailto:kite8421@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-kite8421@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://github.com/ciyuan1234/Kite-Blog">
+    <img src="https://img.shields.io/badge/Personal_Blog-Kite's%20Blog-9333EA?style=for-the-badge&logo=astro&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://github.com/ciyuan1234">
+    <img src="https://img.shields.io/badge/GitHub-ciyuan1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
 </div>
 
 ---
