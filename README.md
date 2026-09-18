@@ -147,6 +147,11 @@ philosophy: "赞美伟大的开源精神，用代码把确定性还给世界。"
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciyuan1234&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="155" alt="GitHub Streak" />
 
+  <br/><br/>
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciyuan1234&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
