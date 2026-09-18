@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner with Wave Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Wang%20Yubo%20(Kite)%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20秋安%20(Kite)%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
   <!-- Typing SVG Dynamic Introduction -->
   <a href="https://github.com/ciyuan1234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=赞美伟大的开源精神+✨;CS+408+计算机考研研习进行时+📚;CUMCM+%2F+MCM+数学建模与机理算法研究+📊;Full-Stack+%26+AI+Agent+Explorer+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=赞美伟大的开源精神+✨;CS+408+计算机研习进行时+📚;CUMCM+%2F+MCM+数学建模与机理算法研究+📊;Full-Stack+%26+AI+Agent+Explorer+🤖" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,9 +15,6 @@
   <p align="center">
     <a href="https://github.com/ciyuan1234/Kite-Blog">
       <img src="https://img.shields.io/badge/Blog-Kite's%20Blog-38BDF8?style=for-the-badge&logo=astro&logoColor=white" alt="Blog"/>
-    </a>
-    <a href="mailto:kite8421@outlook.com">
-      <img src="https://img.shields.io/badge/Email-kite8421%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/ciyuan1234">
       <img src="https://img.shields.io/badge/GitHub-ciyuan1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -31,9 +28,8 @@
 ### 💫 关于我 / About Me
 
 ```yaml
-name: 王宇博 (Wang Yubo / Kite)
-institution: 陕西服装工程学院 (Shaanxi Institute of Garment Engineering)
-interests:
+alias: 秋安 (Kite)
+focus:
   - 计算机科学核心 (CS 408: 数据结构 · 操作系统 · 计网 · 计组)
   - 数学建模与科学计算 (CUMCM & MCM 竞赛开源与模型复现)
   - 现代化全栈开发 (TypeScript · Astro · Python)
@@ -41,10 +37,9 @@ interests:
 motto: "赞美伟大的开源精神"
 ```
 
-- 🎓 **教育背景**：陕西服装工程学院 · 计算机方向
-- 📖 **考研备战**：深入攻坚 CS 408 统考科目，注重底层软硬件原理与算法实现
+- 📖 **考研备战**：深入攻坚 CS 408 核心学科，注重底层软硬件原理与算法实现
 - 📊 **数学建模**：聚焦全国大学生数学建模（CUMCM）与美赛（MCM），专注于机理模型推导、PDE 数值求解、数据契约与论文全流程可复现性
-- ⚡ **效率极客**：重度自动化与终端用户，探索基于 Agentic Workflow 的现代化开发体系
+- ⚡ **效率极客**：重度自动化与终端用户，探索基于 Agentic Workflow 的现代化全栈体系
 
 ---
 
