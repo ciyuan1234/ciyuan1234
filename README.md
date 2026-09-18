@@ -1,24 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner with Wave Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20秋安%20(Kite)%20👋&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+# 👋 Hi there, I'm 秋安 (Kite)
 
-  <!-- Typing SVG Dynamic Introduction -->
-  <a href="https://github.com/ciyuan1234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=热爱开源与自动化工具+✨;CS+408+计算机考研备考中+📚;数模竞赛+(CUMCM+%2F+MCM)+机理建模+📊;正在开发+VideoAgent+科技视频生成管线+🎬" alt="Typing SVG" />
-  </a>
+**念念不忘，必有回响**  
+*专注于计算机系统 (CS 408) · 科学计算与机理建模 · 开源与工具自动化*
 
-  <p align="center">
-    <b>🌱 念念不忘，必有回响 | 专注于计算机系统、科学计算与工具自动化</b>
-  </p>
+<br/>
 
-  <!-- Interactive Badges & Counters -->
-  <p align="center">
-    <a href="https://github.com/ciyuan1234"><img src="https://komarev.com/ghpvc/?username=ciyuan1234&style=flat-square&color=38BDF8&label=Profile+Views" alt="Views"/></a>
-    <a href="https://github.com/ciyuan1234?tab=followers"><img src="https://img.shields.io/github/followers/ciyuan1234?label=Followers&style=flat-square&logo=github&color=4ECDC4" alt="Followers"/></a>
-    <a href="https://github.com/ciyuan1234/Kite-Blog"><img src="https://img.shields.io/badge/Blog-Kite's%20Blog-38BDF8?style=flat-square&logo=astro&logoColor=white" alt="Blog"/></a>
-    <a href="mailto:kite8421@outlook.com"><img src="https://img.shields.io/badge/Email-kite8421@outlook.com-FF6B6B?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
-  </p>
+[![Blog](https://img.shields.io/badge/Blog-Kite's%20Blog-0284c7?style=flat-square&logo=astro&logoColor=white)](https://github.com/ciyuan1234/Kite-Blog)
+[![GitHub Followers](https://img.shields.io/github/followers/ciyuan1234?label=Followers&style=flat-square&logo=github&color=475569)](https://github.com/ciyuan1234)
+[![Email](https://img.shields.io/badge/Email-kite8421@outlook.com-334155?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kite8421@outlook.com)
 
 </div>
 
@@ -58,26 +49,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,linux,apple,git,github,vscode,react,tailwind,astro,nodejs&perline=8&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,linux,apple,git,github,vscode,react,tailwind,astro,nodejs&perline=15&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub 活跃与贡献
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciyuan1234&theme=tokyonight" width="65%" alt="Profile Overview & Annual Contributions" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ciyuan1234&theme=tokyonight" width="32%" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=ciyuan1234&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats" />
-</div>
-
----
-
-<div align="center">
-  <sub>🌱 念念不忘，必有回响 · 欢迎交流与开源共建</sub><br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer" width="100%"/>
+  <sub>🌱 念念不忘，必有回响 · Built with passion for open source</sub>
 </div>
