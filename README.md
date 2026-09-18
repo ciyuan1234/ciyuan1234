@@ -67,14 +67,12 @@
 ### 📊 GitHub 活跃与贡献
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciyuan1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciyuan1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="150" alt="Top Langs" />
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciyuan1234&theme=tokyonight" width="65%" alt="Profile Overview & Annual Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ciyuan1234&theme=tokyonight" width="32%" alt="Top Languages" />
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciyuan1234&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=ciyuan1234&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats" />
 </div>
 
 ---
